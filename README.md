@@ -2,7 +2,7 @@
 
 ### Martin Cusack
 
-### Student ID: G00239124@gmit.ie
+### Student ID: G00239124
 
 Data set: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)
 
