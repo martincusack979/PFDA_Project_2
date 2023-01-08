@@ -19,3 +19,5 @@ https://www.kaggle.com/datasets/mariolisboa/breast-cancer-wisconsin-original-dat
 https://www.w3schools.com/python/python_ml_getting_started.asp
 
 https://scikit-learn.org/stable/
+
+https://towardsdatascience.com/data-visualization-using-seaborn-fc24db95a850
