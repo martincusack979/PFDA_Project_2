@@ -30,6 +30,8 @@ www.journalbinet.com/uploads/2/1/0/0/21005390/67.02.09.2020_analysis_of_wisconsi
 
 https://www.researchgate.net/publication/336727928_Effective_K-nearest_neighbor_classifications_for_Wisconsin_breast_cancer_data_sets
 
+https://gssrr.org/index.php/JournalOfBasicAndApplied/article/view/12300
+
 ## References
 
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
@@ -47,3 +49,7 @@ https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
 https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
 
 https://www.datacamp.com/tutorial/naive-bayes-scikit-learn
+
+https://www.datacamp.com/tutorial/random-forests-classifier-python
+
+https://www.datacamp.com/tutorial/xgboost-in-python
