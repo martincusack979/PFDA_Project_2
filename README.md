@@ -22,6 +22,12 @@ breast mass and describe characteristics of the relevant cell nuclei. Using this
 accuracy in determining the class of each sample. I will also carry out a literature review focusing on some of the machine learning research around this 
 particular data set and comparing the results documented in various academic papers to my own findings.
 
+## Credits
+
+Literature review:
+
+www.journalbinet.com/uploads/2/1/0/0/21005390/67.02.09.2020_analysis_of_wisconsin_breast_cancer_original_dataset_using_data_mining_and_machine_learning_algorithms_for_breast_cancer_prediction.pdf
+
 ## References
 
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
