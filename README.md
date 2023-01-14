@@ -32,24 +32,4 @@ https://www.researchgate.net/publication/336727928_Effective_K-nearest_neighbor_
 
 https://gssrr.org/index.php/JournalOfBasicAndApplied/article/view/12300
 
-## References
 
-https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
-
-https://www.kaggle.com/datasets/mariolisboa/breast-cancer-wisconsin-original-data-set
-
-https://www.w3schools.com/python/python_ml_getting_started.asp
-
-https://scikit-learn.org/stable/
-
-https://towardsdatascience.com/data-visualization-using-seaborn-fc24db95a850
-
-https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
-
-https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
-
-https://www.datacamp.com/tutorial/naive-bayes-scikit-learn
-
-https://www.datacamp.com/tutorial/random-forests-classifier-python
-
-https://www.datacamp.com/tutorial/xgboost-in-python
